@@ -1,4 +1,7 @@
 public class Inventario {
+    public void metodoC() {
+        System.out.println("Se implementa método C");
+}
 
     public void metodoA() {
         System.out.println("Ejecutando método A");
