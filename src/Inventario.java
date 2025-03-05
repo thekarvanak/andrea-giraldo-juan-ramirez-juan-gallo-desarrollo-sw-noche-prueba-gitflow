@@ -3,9 +3,13 @@ public class Inventario {
         System.out.println("Se implementa método C");
 }
 
+    public void metodoA() {
+        System.out.println("Ejecutando método A");
+    }
 
 
     public void metodoB() {
         System.out.println("Ejecutando método B");
     }
+
 }
